@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-decap-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "foodlove_blog",
+  "description": "Anton & Elins food blog",
   "version": "1.1.3",
-  "author": "Austin Green",
+  "author": "Anton Berg",
   "dependencies": {
     "bulma": "^0.9.0",
     "decap-cms-app": "^3.0.12",
